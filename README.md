@@ -148,3 +148,5 @@ correct docker hub username in it --- apply ---build
 The application will be securely deployed in a Docker container on AWS infrastructure, with full automation via Jenkins. Code quality and security checks (SonarQube, OASP, Trivy) ensure robustness, while Terraform and Docker enable scalable and reproducible deployments. 
 
 done..
+
+https://www.youtube.com/watch?v=x55z7rk0NAU
